@@ -52,7 +52,7 @@ const Recipe = () => {
           </button>
         </div>
         {loading ? (
-          <div className='loading'>Loading....</div>
+          <div className='loading'>Loading...</div>
         ) : (
           recipe.map((c, index) => {
             return (
