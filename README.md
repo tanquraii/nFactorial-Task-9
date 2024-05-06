@@ -20,3 +20,9 @@
 При разработке вебсайта я решил сделать его в виде каталога:
 -Главная(и единственная) страница включает в себя поисковик и каталог из рецептов:
 ![screenn](https://github.com/tanquraii/nFactorial-Task-9/assets/166912843/86cdcfc9-af89-4e82-b2c0-f92b8360eb06)
+
+-Из функционала:
+1.Поисковик:
+![image](https://github.com/tanquraii/nFactorial-Task-9/assets/166912843/6e1669b8-38c0-4cd6-9ace-1f201e6a1f14)
+2.Чтобы получить рецепт блюда нужно нажать на картинку блюда:
+![details](https://github.com/tanquraii/nFactorial-Task-9/assets/166912843/cae1b57c-16af-497b-99c8-649052e5cfcc)
